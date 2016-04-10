@@ -16,7 +16,7 @@
 * Return to the terminal running psql and enter `=# CREATE DATABASE shoe_store_test WITH TEMPLATE pm_am;`
 * Compile the web application in terminal by entering `$ gradle run`, and navigate to [localhost](http://localhost:4567/).
 
-### Or:
+####### Or:
 
 Deployed on [Heroku](http://thawing-brook-29610.herokuapp.com/) 
 
