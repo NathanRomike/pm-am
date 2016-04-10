@@ -16,17 +16,13 @@
 * Return to the terminal running psql and enter `=# CREATE DATABASE shoe_store_test WITH TEMPLATE pm_am;`
 * Compile the web application in terminal by entering `$ gradle run`, and navigate to [localhost](http://localhost:4567/).
 
-### Or Follow this link:
+### Or:
 
-```
-http://thawing-brook-29610.herokuapp.com/
-```
+Deployed on [Heroku](http://thawing-brook-29610.herokuapp.com/) 
 
 ## Legal
 
 Copyright (c) 2016 **_Illia Kuchko, Kassidy Douglas, and Nathan Romike_**
-
-This software is licensed under the MIT license.
 
 This software is licensed under the MIT license.
 
